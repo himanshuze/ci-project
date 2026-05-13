@@ -2,7 +2,7 @@ name: Integration
 
 on:
  push:
-  branches: ['main']
+  branches: ['main','home']
  pull_request:
   branches: ['main']
 
